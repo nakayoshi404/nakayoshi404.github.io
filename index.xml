@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuoo</title>
+    <link>https://nakayoshi404.github.io/</link>
+    <description>Recent content on Continuoo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nakayoshi404.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Continuoo</title>
+      <link>https://nakayoshi404.github.io/about/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nakayoshi404.github.io/about/</guid>
+      <description>&lt;p&gt;Continuoo is a Singapore-based consulting firm dedicated to enabling businesses through technology.&lt;/p&gt;&#xA;&lt;p&gt;We help our clients transform digitally by providing tailored IT strategies, architectural guidance, and scalable solutions. Our mission is to make complex technology accessible, efficient, and impactful for organizations of any size.&lt;/p&gt;&#xA;&lt;p&gt;Our team brings a balance of technical expertise and business acumen to ensure long-term success for our partners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Services</title>
+      <link>https://nakayoshi404.github.io/services/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nakayoshi404.github.io/services/</guid>
+      <description>&lt;p&gt;At Continuoo, we provide IT consulting services with a flexible and client-centric approach.&lt;br&gt;&#xA;Our expertise spans a range of modern technologies and strategic domains, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Digital Transformation Strategy&lt;/li&gt;&#xA;&lt;li&gt;Cloud Architecture Design&lt;/li&gt;&#xA;&lt;li&gt;System Integration &amp;amp; API Advisory&lt;/li&gt;&#xA;&lt;li&gt;Agile Delivery Coaching&lt;/li&gt;&#xA;&lt;li&gt;Infrastructure Optimization &amp;amp; Cost Control&lt;/li&gt;&#xA;&lt;li&gt;Business Continuity &amp;amp; Disaster Recovery Planning&lt;/li&gt;&#xA;&lt;li&gt;Cross-border IT Enablement (APAC &amp;amp; Japan)&lt;/li&gt;&#xA;&lt;li&gt;Technical Due Diligence for Investments&lt;/li&gt;&#xA;&lt;li&gt;Vendor-neutral Technology Evaluation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our services are designed to scale with your needs — from early-stage advisory to full-scale solution delivery.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
